@@ -21,11 +21,7 @@
                     text-decoration: none;
                     color: black;
                     margin-top: 28px;
-<<<<<<< HEAD
-                    padding: 12px 46px 12px 20px;
-=======
                     padding: 12px 43px 12px 20px;
->>>>>>> 44d054d... added internal pages
                     background-color: white;
                     border-radius: 12px;
                     transition: all 0.5s ease-in-out;
@@ -35,20 +31,11 @@
                     &:nth-child(2) {
                         margin-left: 7px;
                     }
-<<<<<<< HEAD
-                    &:nth-child(3),
-                    &:nth-child(4) {
-                        margin-left: 13px;
-                    }
-                    &:nth-child(5),
-                    &:nth-child(6) {
-=======
                     &:nth-child(3) {
                         margin-left: 13px;
                     }
                     &:nth-child(4),
                     &:nth-child(5) {
->>>>>>> 44d054d... added internal pages
                         background-color: transparent;
                         padding: 8px;
                         font-size: 16px;
@@ -63,11 +50,7 @@
                     &:last-child {
                         background-color: transparent;
                         margin-top: -24px !important;
-<<<<<<< HEAD
-                        margin-left: 11.5rem;
-=======
                         margin-left: 22.6rem;
->>>>>>> 44d054d... added internal pages
                         position: absolute;
                         &:hover {
                             background-color: transparent;
@@ -185,14 +168,6 @@
         }
     }
     .carousel {
-<<<<<<< HEAD
-        .content {
-            width: 100%;
-            .title {
-                font-size: 30px;
-                margin-top: -170px;
-                margin-left: 75%;
-=======
         position: relative;
         .content {
             width: 100%;
@@ -214,7 +189,6 @@
                 font-size: 30px;
                 margin-top: -170px;
                 margin-left: 72%;
->>>>>>> 44d054d... added internal pages
                 margin-bottom: 70px;
             }
             .arrow-left {
@@ -306,14 +280,6 @@
         .content {
             padding-top: 10px;
             padding-bottom: 30px;
-<<<<<<< HEAD
-            div {
-                float: left;
-                direction: rtl;
-                padding: 10px 20px;
-                border-radius: 10px;
-                border: 1px solid;
-=======
             a {
                 float: left;
                 direction: rtl;
@@ -322,7 +288,6 @@
                 border: 1px solid;
                 text-decoration: none;
                 color: black;
->>>>>>> 44d054d... added internal pages
                 i {
                     margin-left: 10px;
                     color: #eea848;
@@ -452,11 +417,7 @@
     .left {
         img {
             width: 360px;
-<<<<<<< HEAD
-            margin-left: 15%;
-=======
             margin-left: 16%;
->>>>>>> 44d054d... added internal pages
             margin-right: 13%;
             margin-top: -10px;
             transition: float 0.5s ease-in-out;
@@ -493,11 +454,7 @@
         background: #eea844;
         border-radius: 12px;
         border: 3px solid transparent;
-<<<<<<< HEAD
-        padding: 11px 35px;
-=======
         padding: 9px 35px;
->>>>>>> 44d054d... added internal pages
         font-size: 17px;
         text-decoration: none;
         color: white;
@@ -513,38 +470,23 @@
         }
     }
     input {
-<<<<<<< HEAD
-        margin-left: 2%;
-        padding-top: 17px;
-        padding-bottom: 17px;
-=======
         margin-left: 2.5%;
         padding-top: 15px;
         padding-bottom: 15px;
->>>>>>> 44d054d... added internal pages
         border-radius: 12px;
         border: 2px solid #fbf3e7;
         background-color: #fbf3e7;
         direction: rtl;
         padding-right: 30px;
-<<<<<<< HEAD
-        width: 47%;
-=======
         width: 43%;
->>>>>>> 44d054d... added internal pages
         float: left;
         &:focus {
             outline: 0px;
             border-color: #eea844;
         }
         &::placeholder {
-<<<<<<< HEAD
-            color: #071728;
-            font-size: 18px;
-=======
             color: #d4cccc;
             font-size: 16px;
->>>>>>> 44d054d... added internal pages
         }
     }
     h1 {
@@ -637,31 +579,20 @@
         width: 100%;
         margin-top: -20px;
         margin-bottom: 30px;
-<<<<<<< HEAD
-=======
         margin-left: 27.8%;
->>>>>>> 44d054d... added internal pages
         .content {
             ul {
                 margin-top: -20px;
                 list-style: none;
                 li {
                     float: left;
-<<<<<<< HEAD
-                    margin-left: 5%;
-=======
                     margin-left: 4%;
                     transition: all 0.3s ease-in-out;
->>>>>>> 44d054d... added internal pages
                     a {
                         color: black;
                         text-decoration: none;
                         font-size: 14px;
-<<<<<<< HEAD
-                        transition: all 0.5s ease-in-out;
-=======
                         transition: all 0.3s ease-in-out;
->>>>>>> 44d054d... added internal pages
                     }
                     &:hover {
                         a {
@@ -674,19 +605,6 @@
     }
     .social-media {
         padding-bottom: 100px;
-<<<<<<< HEAD
-        padding: 10px 0px 100px 40%;
-        .content {
-            ul {
-                list-style: none;
-                li {
-                    float: left;
-                    text-decoration: none;
-                    font-size: 20px;
-                    color: #071728;
-                    margin-left: 6%;
-                    cursor: pointer;
-=======
         padding: 17px 0px 80px 41%;
         .social-media-icons {
             .svg-icon{
@@ -695,7 +613,6 @@
                 img{
                     width: 20px !important;
                     height: 20px !important;
->>>>>>> 44d054d... added internal pages
                 }
             }
         }
